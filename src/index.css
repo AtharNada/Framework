@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active{
+    background-color: rgb(42, 215, 178);
+}
+.home{
+    right: 0;
+    left: 0;
+    height: 100vh;
+}
+.porto{
+    font-size: 30px;
+    color: rgb(31, 71, 97);
+}
+body{
+    background-color: rgb(30, 219, 156);
+}
